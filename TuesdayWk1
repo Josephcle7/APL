@@ -30,3 +30,7 @@ Paradigms of programming:
 -Eager vs lazy
   Eager languages evaluate everything in reference to calling by value or calling by reference
   
+-       *iter++ = value;
+          this *iter list/array is being set to value. *iter++ just points to the next value in the *iter list/array. 
+                                                                                                          (iter + 1)
+  
