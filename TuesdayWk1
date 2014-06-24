@@ -1,0 +1,32 @@
+Paradigms of programming:
+
+-Logic
+  Prolog, Coq
+-Functional
+  Haskell, ML, Lisp
+-Imperative
+  C, Pascal, Fortran
+-Object Oriented
+  Self, Smalltalk, Emerald
+-Hybrids
+  Java, C++, Scala
+-Niche
+  Cobol, Shobol, Spitbol, DSL's, Set L
+  
+-Turing complete
+  When a language can be used to simulate a turing machine
+  
+-Infix operators take in two arguments
+  a + b
+  (cout << "Hello World!")
+  
+-C++ does no memory management for you
+
+-The Heap
+  Split between the free list, memory that is free, and everything else in the heap that is taking up memory
+  
+-A memory leak is when memory is not returned to the free pool and can no longer be used
+
+-Eager vs lazy
+  Eager languages evaluate everything in reference to calling by value or calling by reference
+  
