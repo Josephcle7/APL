@@ -1,0 +1,29 @@
+Dependent Types:
+  Languages can be broken down into two different parts
+    -Terms
+      int type;
+      char y;
+      a = a + 1;
+      if (x){ y }
+      else { c };
+    -Type
+      list a;
+      T a;
+  
+  There is a coorespondance between types and logic expressions
+    -A x B
+      A and B
+    -A + B
+      A or B
+      
+  Godels incompleteness theorem
+    -There is no language that is expressive enough to express everything that is true in the language
+  
+  Induction
+    -data int = z is int
+    
+  Not canonical
+    - 5 + 4
+  Canonical
+    -9
+    
