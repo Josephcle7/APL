@@ -1,0 +1,9 @@
+Things to make sure you know:
+  -Curry-Howard ISO
+  -Dependent Types
+  -Sets, Types, Propositions
+  -Curry/Uncurrying
+  
+Polymorphism
+  -len function is polymorphic
+  
