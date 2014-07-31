@@ -1,0 +1,13 @@
+charcheck :: MessageType -> MessageType
+charcheck I = Info
+charcheck W = Warning
+charcheck E = Error Int
+
+May also be:
+
+charcheck :: char -> MessageType
+charcheck I = Info
+charcheck W = Warning
+charcheck E = Error Int
+
+TimeStamp check
